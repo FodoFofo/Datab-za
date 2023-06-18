@@ -1,0 +1,5 @@
+D:\Download\C#\Databáza\Databáza\bin\Debug\Databáza BETA v.0.0.0.0.exe
+D:\Download\C#\Databáza\Databáza\bin\Debug\Databáza BETA v.0.0.0.0.pdb
+D:\Download\C#\Databáza\Databáza\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Download\C#\Databáza\Databáza\obj\x86\Debug\Databáza BETA v.0.0.0.0.exe
+D:\Download\C#\Databáza\Databáza\obj\x86\Debug\Databáza BETA v.0.0.0.0.pdb

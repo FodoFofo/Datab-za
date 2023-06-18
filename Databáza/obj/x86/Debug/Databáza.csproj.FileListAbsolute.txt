@@ -1,0 +1,20 @@
+D:\Download\C#\Databáza\Databáza\bin\Debug\Databáza.exe
+D:\Download\C#\Databáza\Databáza\bin\Debug\Databáza.pdb
+D:\Download\C#\Databáza\Databáza\obj\x86\Debug\Databáza.exe
+D:\Download\C#\Databáza\Databáza\obj\x86\Debug\Databáza.pdb
+D:\Download\C#\Databáza\Databáza\obj\x86\Debug\Databáza.csprojAssemblyReference.cache
+D:\Download\C#\Databáza\Databáza\obj\x86\Debug\Databáza.csproj.CoreCompileInputs.cache
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\C#\Databáza\Databáza\bin\Debug\Databáza.exe
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\C#\Databáza\Databáza\bin\Debug\Databáza.pdb
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\C#\Databáza\Databáza\obj\x86\Debug\Databáza.csprojAssemblyReference.cache
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\C#\Databáza\Databáza\obj\x86\Debug\Databáza.csproj.CoreCompileInputs.cache
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\C#\Databáza\Databáza\obj\x86\Debug\Databáza.exe
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\C#\Databáza\Databáza\obj\x86\Debug\Databáza.pdb
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\bin\Debug\Databáza.exe.config
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\bin\Debug\Databáza.exe
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\bin\Debug\Databáza.pdb
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\obj\x86\Debug\Databáza.csproj.AssemblyReference.cache
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\obj\x86\Debug\Databáza.csproj.SuggestedBindingRedirects.cache
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\obj\x86\Debug\Databáza.csproj.CoreCompileInputs.cache
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\obj\x86\Debug\Databáza.exe
+D:\DATA\OneDrive\C# programovanie\_Staršie veci\Databáza\Databáza\obj\x86\Debug\Databáza.pdb

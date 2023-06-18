@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5edc5974-e347-4515-851a-2f6f2da63b00": {
+      "ProjectGuid": "5edc5974-e347-4515-851a-2f6f2da63b00",
+      "DisplayName": "Databáza",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
